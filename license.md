@@ -190,4 +190,4 @@ Use the button in the Quick Start section.
 
 ---
 
-*Aniimo · Updated 2026-11-22 · Shared under the MIT License*
+*Aniimo · Updated 2026-11-24 · Shared under the MIT License*
